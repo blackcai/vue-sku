@@ -2,11 +2,11 @@
 
 Because my components are placed under a nextjs project, it is very troublesome to update the components separately. Therefore, only the first version is provided under this project. The latest version is not guaranteed. Please refer to the link below to access the latest address of the corresponding project. (English translation from Google)
 
-[第一个实例代码  -github](https://github.com/blackcai/vue-components/tree/develop/pages/sku)
+[第一个实例代码  -github](https://github.com/blackcai/vue-components/tree/develop/pages/sku)|
 [第一个实例代码 - gitee](https://gitee.com/mymcode/vue-component/tree/develop/pages/sku)|
 [第一个实例预览](http://www.opnnn.com/sku)
 
-[First instance code - github](https://github.com/blackcai/vue-components/tree/develop/pages/sku)
+[First instance code - github](https://github.com/blackcai/vue-components/tree/develop/pages/sku)|
 [First instance code - gitee](https://gitee.com/mymcode/vue-component/tree/develop/pages/sku)|
 [First instance code - preview](http://www.opnnn.com/sku)
 
@@ -18,6 +18,6 @@ Because my components are placed under a nextjs project, it is very troublesome 
 [Second instance code - gitee](https://gitee.com/mymcode/vue-component/tree/develop/pages/sku2)|
 [Second instance code - proview](http://www.opnnn.com/sku2)
 
-[线上实例代码](http://www.opnnn.com)
+[线上实例](http://www.opnnn.com)|[线上实例代码 - github](https://github.com/blackcai/vue-components)|[线上实例代码 -gitee](https://gitee.com/mymcode/vue-component)
 
-[Instance Code Online](http://www.opnnn.com)
+[Online Example](http://www.opnnn.com)|[Online Example Code - github](https://github.com/blackcai/vue-components)|[Online Example Code -gitee](https://gitee.com/mymcode/vue-component)
