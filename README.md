@@ -1,23 +1,17 @@
-因为我的组件都放在一个nextjs项目下，单独更新组件很麻烦，所以此项目下仅提供第一个版本，不保证是最新的版本，请参照下面链接访问对应的项目最新地址。（英文翻译来源于谷歌）
+# vue-sku
+>基于vuejs，生成一个商品sku展示组件，注意区别于[这个sku](http://www.opnnn.com/sku2)
+>因为是单个文件，并没有进行复杂的成份，所以没有上传到npm包服务里面，直接下载即可使用
 
-Because my components are placed under a nextjs project, it is very troublesome to update the components separately. Therefore, only the first version is provided under this project. The latest version is not guaranteed. Please refer to the link below to access the latest address of the corresponding project. (English translation from Google)
+[预览1.0](http://www.opnnn.com/sku)
+初始版本的文件。
 
-[第一个实例代码  -github](https://github.com/blackcai/vue-components/tree/develop/pages/sku)|
-[第一个实例代码 - gitee](https://gitee.com/mymcode/vue-component/tree/develop/pages/sku)|
-[第一个实例预览](http://www.opnnn.com/sku)
 
-[First instance code - github](https://github.com/blackcai/vue-components/tree/develop/pages/sku)|
-[First instance code - gitee](https://gitee.com/mymcode/vue-component/tree/develop/pages/sku)|
-[First instance code - preview](http://www.opnnn.com/sku)
+# start
+```
+  npm install
+  npm run serve
+```
+访问：http://localhost:8080
 
-[第二个实例代码-github](https://github.com/rossroma/vue-sku)|
-[第二个实例代码-gitee](https://gitee.com/mymcode/vue-component/tree/develop/pages/sku2)|
-[第二个实例预览](http://www.opnnn.com/sku2)
-
-[Second instance code - github](https://github.com/rossroma/vue-sku)|
-[Second instance code - gitee](https://gitee.com/mymcode/vue-component/tree/develop/pages/sku2)|
-[Second instance code - proview](http://www.opnnn.com/sku2)
-
-[线上实例](http://www.opnnn.com)|[线上实例代码 - github](https://github.com/blackcai/vue-components)|[线上实例代码 -gitee](https://gitee.com/mymcode/vue-component)
-
-[Online Example](http://www.opnnn.com)|[Online Example Code - github](https://github.com/blackcai/vue-components)|[Online Example Code -gitee](https://gitee.com/mymcode/vue-component)
+##### 1.0
+*更新了文件结构，使组件更清晰
